@@ -1,7 +1,7 @@
 {
-    "name": "remote-ioc",
+    "name": "my-package",
     "version": "1.0.0",
-    "repository": "https://github.com/dnchattan/remote-ioc.git",
+    "repository": "https://github.com/dnchattan/my-package.git",
     "author": "dnchattan@gmail.com",
     "license": "MIT",
     "private": true,
